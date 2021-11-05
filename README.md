@@ -1,6 +1,7 @@
 # Testing XKCD's supposedly bad "painbow" colormap 
 
-[XKCD](https://xkcd.com/2537/) claimed this colormap is terrible, and even called it a "painbow". However, these examples show that with certain tasks and data, this colormap outperforms even some of the most commonly cited "good" colormaps like viridis.
+[XKCD](https://xkcd.com/2537/) claimed this colormap is terrible, and even called it a "painbow". However, these examples show that with certain tasks and data, this colormap outperforms even some of the most commonly cited "good" colormaps like viridis.  
+
 ![image](https://imgs.xkcd.com/comics/painbow_award.png)
 
 
